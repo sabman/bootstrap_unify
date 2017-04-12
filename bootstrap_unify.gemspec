@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = BootstrapUnify::VERSION
   s.authors     = ["ajukas"]
   s.email       = ["mikhail.ajukas@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of BootstrapUnify."
-  s.description = "TODO: Description of BootstrapUnify."
+  s.homepage    = "unifytheme"
+  s.summary     = "Summary of BootstrapUnify."
+  s.description = "Description of BootstrapUnify."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
