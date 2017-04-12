@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = BootstrapUnify::VERSION
   s.authors     = ["ajukas"]
   s.email       = ["mikhail.ajukas@gmail.com"]
-  s.homepage    = "unifytheme"
+  s.homepage    = "http://wrapbootstrap.com/preview/WB0412697"
   s.summary     = "Summary of BootstrapUnify."
   s.description = "Description of BootstrapUnify."
   s.license     = "MIT"
